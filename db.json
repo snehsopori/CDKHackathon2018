@@ -1,0 +1,44 @@
+{
+  "details": [
+    {
+      "dealer": "A Motors",
+      "dealer_score": 50,
+      "location": "Pune",
+      "make": "Audi",
+      "model": "R8",
+      "type": "Sedan",
+      "price": 5000000,
+      "color": "Red"
+    },
+    {
+      "dealer": "A Motors",
+      "dealer_score": 50,
+      "location": "Pune",
+      "make": "Audi",
+      "model": "R8",
+      "type": "Sedan",
+      "price": 4500000,
+      "color": "Black"
+    },
+    {
+      "dealer": "A Motors",
+      "dealer_score": 50,
+      "location": "Pune",
+      "make": "Audi",
+      "model": "TT",
+      "type": "Sedan",
+      "price": 4800000,
+      "color": "Black"
+    },
+    {
+      "dealer": "A Motors",
+      "dealer_score": 50,
+      "location": "Pune",
+      "make": "Audi",
+      "model": "A4",
+      "type": "Sedan",
+      "price": 3500000,
+      "color": "White"
+    }
+  ]
+}
